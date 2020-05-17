@@ -7,3 +7,6 @@ def my_each(array) # put argument(s) here
  end
 end
 
+ array 
+ end 
+end 
